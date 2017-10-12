@@ -13,7 +13,9 @@ It gives you control of what you want to commit before yo do it. This way you ca
 if the changes thatyou are doing are in an logical order
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help?`
+When you want to test new features, new versions, etc; and dont want to mess
+with the master brancha and develop in a more secure way.
 
 How do the diagrams help you visualize the branch structure?
 
