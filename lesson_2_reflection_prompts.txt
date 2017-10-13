@@ -18,6 +18,9 @@ When you want to test new features, new versions, etc; and dont want to mess
 with the master brancha and develop in a more secure way.
 
 How do the diagrams help you visualize the branch structure?
+It helps me construct a visualization of how the branches a relationated to
+the master brancha, where the branches born and have a more accurate idea of
+the structure before marging
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
