@@ -24,6 +24,9 @@ the structure before marging
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the result is a single branch containing the commits of both branches, ordered by their creation date.
+we diagram it, as to branchs joining toogether, because they stop from the point of merging, they
+transform as a single branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
