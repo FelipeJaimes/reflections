@@ -36,4 +36,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When im working in a group project and i want to make changes
+    to the code, the best practice is to create a new branch and 
+    make a pull request, so your teammates can review the change
+    and aprove it. Anyways, if you are working alone and want to make
+    important changes to the code, the best practice is to create 
+    a new branche where you can test this changes while having a 
+    master branch that will always works.
